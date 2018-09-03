@@ -1,0 +1,15 @@
+d:\EPAM\Naughts and Crosses\Team4_TicTacToe\EPAM_Team4_AI\MinMaxAlgorithm\bin\Debug\MinMaxAlgorithm.dll
+d:\EPAM\Naughts and Crosses\Team4_TicTacToe\EPAM_Team4_AI\MinMaxAlgorithm\bin\Debug\MinMaxAlgorithm.pdb
+d:\EPAM\Naughts and Crosses\Team4_TicTacToe\EPAM_Team4_AI\MinMaxAlgorithm\obj\Debug\MinMaxAlgorithm.dll
+d:\EPAM\Naughts and Crosses\Team4_TicTacToe\EPAM_Team4_AI\MinMaxAlgorithm\obj\Debug\MinMaxAlgorithm.pdb
+d:\EPAM\Naughts and Crosses\Team4_TicTacToe\EPAM_Team4_AI\MinMaxAlgorithm\bin\Debug\CommonClasses.dll
+d:\EPAM\Naughts and Crosses\Team4_TicTacToe\EPAM_Team4_AI\MinMaxAlgorithm\bin\Debug\CommonClasses.pdb
+d:\EPAM\Naughts and Crosses\Team4_TicTacToe\EPAM_Team4_AI\MinMaxAlgorithm\obj\Debug\MinMaxAlgorithm.csprojResolveAssemblyReference.cache
+d:\EPAM\Repo_TicTacToe\EPAM_Team4_AI\MinMaxAlgorithm\bin\Debug\MinMaxAlgorithm.dll
+d:\EPAM\Repo_TicTacToe\EPAM_Team4_AI\MinMaxAlgorithm\bin\Debug\MinMaxAlgorithm.pdb
+d:\EPAM\Repo_TicTacToe\EPAM_Team4_AI\MinMaxAlgorithm\bin\Debug\CommonClasses.dll
+d:\EPAM\Repo_TicTacToe\EPAM_Team4_AI\MinMaxAlgorithm\bin\Debug\CommonClasses.pdb
+d:\EPAM\Repo_TicTacToe\EPAM_Team4_AI\MinMaxAlgorithm\obj\Debug\MinMaxAlgorithm.csprojResolveAssemblyReference.cache
+d:\EPAM\Repo_TicTacToe\EPAM_Team4_AI\MinMaxAlgorithm\obj\Debug\MinMaxAlgorithm.csproj.CoreCompileInputs.cache
+d:\EPAM\Repo_TicTacToe\EPAM_Team4_AI\MinMaxAlgorithm\obj\Debug\MinMaxAlgorithm.dll
+d:\EPAM\Repo_TicTacToe\EPAM_Team4_AI\MinMaxAlgorithm\obj\Debug\MinMaxAlgorithm.pdb

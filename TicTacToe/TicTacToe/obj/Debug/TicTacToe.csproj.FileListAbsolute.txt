@@ -1,0 +1,57 @@
+D:\EPAM\Naughts and Crosses\MyTicTacToe\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe.config
+D:\EPAM\Naughts and Crosses\MyTicTacToe\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe
+D:\EPAM\Naughts and Crosses\MyTicTacToe\TicTacToe\TicTacToe\bin\Debug\TicTacToe.pdb
+D:\EPAM\Naughts and Crosses\MyTicTacToe\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csprojResolveAssemblyReference.cache
+D:\EPAM\Naughts and Crosses\MyTicTacToe\TicTacToe\TicTacToe\obj\Debug\TicTacToe.Properties.Resources.resources
+D:\EPAM\Naughts and Crosses\MyTicTacToe\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csproj.GenerateResource.Cache
+D:\EPAM\Naughts and Crosses\MyTicTacToe\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csproj.CoreCompileInputs.cache
+D:\EPAM\Naughts and Crosses\MyTicTacToe\TicTacToe\TicTacToe\obj\Debug\TicTacToe.exe
+D:\EPAM\Naughts and Crosses\MyTicTacToe\TicTacToe\TicTacToe\obj\Debug\TicTacToe.pdb
+D:\EPAM\Naughts and Crosses\MyTicTacToe\TicTacToe\TicTacToe\obj\Debug\TicTacToe.FormTicTacToe.resources
+d:\EPAM\Naughts and Crosses\Team4_TicTacToe\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe.config
+d:\EPAM\Naughts and Crosses\Team4_TicTacToe\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe
+d:\EPAM\Naughts and Crosses\Team4_TicTacToe\TicTacToe\TicTacToe\bin\Debug\TicTacToe.pdb
+d:\EPAM\Naughts and Crosses\Team4_TicTacToe\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csprojResolveAssemblyReference.cache
+d:\EPAM\Naughts and Crosses\Team4_TicTacToe\TicTacToe\TicTacToe\obj\Debug\TicTacToe.FormTicTacToe.resources
+d:\EPAM\Naughts and Crosses\Team4_TicTacToe\TicTacToe\TicTacToe\obj\Debug\TicTacToe.Properties.Resources.resources
+d:\EPAM\Naughts and Crosses\Team4_TicTacToe\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csproj.GenerateResource.Cache
+d:\EPAM\Naughts and Crosses\Team4_TicTacToe\TicTacToe\TicTacToe\obj\Debug\TicTacToe.exe
+d:\EPAM\Naughts and Crosses\Team4_TicTacToe\TicTacToe\TicTacToe\obj\Debug\TicTacToe.pdb
+d:\EPAM\Naughts and Crosses\Team4_TicTacToe\TicTacToe\TicTacToe\bin\Debug\EPAM_Team4_AI.dll
+d:\EPAM\Naughts and Crosses\Team4_TicTacToe\TicTacToe\TicTacToe\bin\Debug\MinMaxAlgorithm.dll
+d:\EPAM\Naughts and Crosses\Team4_TicTacToe\TicTacToe\TicTacToe\bin\Debug\EPAM_Team4_AI.pdb
+d:\EPAM\Naughts and Crosses\Team4_TicTacToe\TicTacToe\TicTacToe\bin\Debug\MinMaxAlgorithm.pdb
+d:\EPAM\Naughts and Crosses\Team4_TicTacToe\TicTacToe\TicTacToe\bin\Debug\CommonClasses.dll
+d:\EPAM\Naughts and Crosses\Team4_TicTacToe\TicTacToe\TicTacToe\bin\Debug\CommonClasses.pdb
+d:\EPAM\Naughts and Crosses\Repo_TicTacToe\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe.config
+d:\EPAM\Naughts and Crosses\Repo_TicTacToe\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe
+d:\EPAM\Naughts and Crosses\Repo_TicTacToe\TicTacToe\TicTacToe\bin\Debug\TicTacToe.pdb
+d:\EPAM\Naughts and Crosses\Repo_TicTacToe\TicTacToe\TicTacToe\bin\Debug\CommonClasses.dll
+d:\EPAM\Naughts and Crosses\Repo_TicTacToe\TicTacToe\TicTacToe\bin\Debug\EPAM_Team4_AI.dll
+d:\EPAM\Naughts and Crosses\Repo_TicTacToe\TicTacToe\TicTacToe\bin\Debug\MinMaxAlgorithm.dll
+d:\EPAM\Naughts and Crosses\Repo_TicTacToe\TicTacToe\TicTacToe\bin\Debug\CommonClasses.pdb
+d:\EPAM\Naughts and Crosses\Repo_TicTacToe\TicTacToe\TicTacToe\bin\Debug\EPAM_Team4_AI.pdb
+d:\EPAM\Naughts and Crosses\Repo_TicTacToe\TicTacToe\TicTacToe\bin\Debug\MinMaxAlgorithm.pdb
+d:\EPAM\Naughts and Crosses\Repo_TicTacToe\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csprojResolveAssemblyReference.cache
+d:\EPAM\Naughts and Crosses\Repo_TicTacToe\TicTacToe\TicTacToe\obj\Debug\TicTacToe.FormTicTacToe.resources
+d:\EPAM\Naughts and Crosses\Repo_TicTacToe\TicTacToe\TicTacToe\obj\Debug\TicTacToe.Properties.Resources.resources
+d:\EPAM\Naughts and Crosses\Repo_TicTacToe\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csproj.GenerateResource.Cache
+d:\EPAM\Naughts and Crosses\Repo_TicTacToe\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csproj.CoreCompileInputs.cache
+d:\EPAM\Naughts and Crosses\Repo_TicTacToe\TicTacToe\TicTacToe\obj\Debug\TicTacToe.exe
+d:\EPAM\Naughts and Crosses\Repo_TicTacToe\TicTacToe\TicTacToe\obj\Debug\TicTacToe.pdb
+d:\EPAM\Repo_TicTacToe\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe.config
+d:\EPAM\Repo_TicTacToe\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe
+d:\EPAM\Repo_TicTacToe\TicTacToe\TicTacToe\bin\Debug\TicTacToe.pdb
+d:\EPAM\Repo_TicTacToe\TicTacToe\TicTacToe\bin\Debug\CommonClasses.dll
+d:\EPAM\Repo_TicTacToe\TicTacToe\TicTacToe\bin\Debug\EPAM_Team4_AI.dll
+d:\EPAM\Repo_TicTacToe\TicTacToe\TicTacToe\bin\Debug\MinMaxAlgorithm.dll
+d:\EPAM\Repo_TicTacToe\TicTacToe\TicTacToe\bin\Debug\CommonClasses.pdb
+d:\EPAM\Repo_TicTacToe\TicTacToe\TicTacToe\bin\Debug\EPAM_Team4_AI.pdb
+d:\EPAM\Repo_TicTacToe\TicTacToe\TicTacToe\bin\Debug\MinMaxAlgorithm.pdb
+d:\EPAM\Repo_TicTacToe\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csprojResolveAssemblyReference.cache
+d:\EPAM\Repo_TicTacToe\TicTacToe\TicTacToe\obj\Debug\TicTacToe.FormTicTacToe.resources
+d:\EPAM\Repo_TicTacToe\TicTacToe\TicTacToe\obj\Debug\TicTacToe.Properties.Resources.resources
+d:\EPAM\Repo_TicTacToe\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csproj.GenerateResource.Cache
+d:\EPAM\Repo_TicTacToe\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csproj.CoreCompileInputs.cache
+d:\EPAM\Repo_TicTacToe\TicTacToe\TicTacToe\obj\Debug\TicTacToe.exe
+d:\EPAM\Repo_TicTacToe\TicTacToe\TicTacToe\obj\Debug\TicTacToe.pdb

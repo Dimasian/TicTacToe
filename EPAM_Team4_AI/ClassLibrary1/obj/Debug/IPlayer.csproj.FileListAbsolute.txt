@@ -1,0 +1,16 @@
+C:\Users\Mikhail_Golubtcov\source\repos\TicTacToe_test\ClassLibrary1\obj\Debug\IPlayer.csproj.CoreCompileInputs.cache
+C:\TicTacToe\EPAM.TicTacToe.IPlayer.dll
+C:\TicTacToe\EPAM.TicTacToe.IPlayer.pdb
+C:\Users\Mikhail_Golubtcov\source\repos\TicTacToe_test\ClassLibrary1\obj\Debug\EPAM.TicTacToe.IPlayer.dll
+C:\Users\Mikhail_Golubtcov\source\repos\TicTacToe_test\ClassLibrary1\obj\Debug\EPAM.TicTacToe.IPlayer.pdb
+C:\Users\Mikhail_Golubtcov\source\repos\TicTacToe_test\ClassLibrary1\obj\Debug\IPlayer.csprojResolveAssemblyReference.cache
+C:\Users\Mikhail_Golubtcov\Documents\TicTacToe\SourceCode\Game\bin\Debug\EPAM.TicTacToe.IPlayer.dll
+C:\Users\Mikhail_Golubtcov\Documents\TicTacToe\SourceCode\Game\bin\Debug\EPAM.TicTacToe.IPlayer.pdb
+C:\Users\Mikhail_Golubtcov\Documents\TicTacToe\SourceCode\ClassLibrary1\obj\Debug\IPlayer.csproj.CoreCompileInputs.cache
+C:\Users\Mikhail_Golubtcov\Documents\TicTacToe\SourceCode\ClassLibrary1\obj\Debug\EPAM.TicTacToe.IPlayer.dll
+C:\Users\Mikhail_Golubtcov\Documents\TicTacToe\SourceCode\ClassLibrary1\obj\Debug\EPAM.TicTacToe.IPlayer.pdb
+d:\EPAM\Naughts and Crosses\Repo_TicTacToe_Mikhail\SourceCode\Game\bin\Debug\EPAM.TicTacToe.IPlayer.dll
+d:\EPAM\Naughts and Crosses\Repo_TicTacToe_Mikhail\SourceCode\Game\bin\Debug\EPAM.TicTacToe.IPlayer.pdb
+d:\EPAM\Naughts and Crosses\Repo_TicTacToe_Mikhail\SourceCode\ClassLibrary1\obj\Debug\IPlayer.csproj.CoreCompileInputs.cache
+d:\EPAM\Naughts and Crosses\Repo_TicTacToe_Mikhail\SourceCode\ClassLibrary1\obj\Debug\EPAM.TicTacToe.IPlayer.dll
+d:\EPAM\Naughts and Crosses\Repo_TicTacToe_Mikhail\SourceCode\ClassLibrary1\obj\Debug\EPAM.TicTacToe.IPlayer.pdb

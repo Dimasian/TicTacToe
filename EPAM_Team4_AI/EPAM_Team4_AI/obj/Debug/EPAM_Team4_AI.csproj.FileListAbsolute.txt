@@ -1,0 +1,29 @@
+d:\EPAM\Naughts and Crosses\Team4_TicTacToe\EPAM_Team4_AI\EPAM_Team4_AI\obj\Debug\EPAM_Team4_AI.csprojResolveAssemblyReference.cache
+d:\EPAM\Naughts and Crosses\Team4_TicTacToe\EPAM_Team4_AI\EPAM_Team4_AI\bin\Debug\EPAM_Team4_AI.dll
+d:\EPAM\Naughts and Crosses\Team4_TicTacToe\EPAM_Team4_AI\EPAM_Team4_AI\bin\Debug\EPAM_Team4_AI.pdb
+d:\EPAM\Naughts and Crosses\Team4_TicTacToe\EPAM_Team4_AI\EPAM_Team4_AI\bin\Debug\MinMaxAlgorithm.dll
+d:\EPAM\Naughts and Crosses\Team4_TicTacToe\EPAM_Team4_AI\EPAM_Team4_AI\bin\Debug\MinMaxAlgorithm.pdb
+d:\EPAM\Naughts and Crosses\Team4_TicTacToe\EPAM_Team4_AI\EPAM_Team4_AI\obj\Debug\EPAM_Team4_AI.dll
+d:\EPAM\Naughts and Crosses\Team4_TicTacToe\EPAM_Team4_AI\EPAM_Team4_AI\obj\Debug\EPAM_Team4_AI.pdb
+d:\EPAM\Naughts and Crosses\Team4_TicTacToe\EPAM_Team4_AI\EPAM_Team4_AI\bin\Debug\CommonClasses.dll
+d:\EPAM\Naughts and Crosses\Team4_TicTacToe\EPAM_Team4_AI\EPAM_Team4_AI\bin\Debug\CommonClasses.pdb
+d:\EPAM\Naughts and Crosses\Repo_TicTacToe\EPAM_Team4_AI\EPAM_Team4_AI\bin\Debug\EPAM_Team4_AI.dll
+d:\EPAM\Naughts and Crosses\Repo_TicTacToe\EPAM_Team4_AI\EPAM_Team4_AI\bin\Debug\EPAM_Team4_AI.pdb
+d:\EPAM\Naughts and Crosses\Repo_TicTacToe\EPAM_Team4_AI\EPAM_Team4_AI\bin\Debug\CommonClasses.dll
+d:\EPAM\Naughts and Crosses\Repo_TicTacToe\EPAM_Team4_AI\EPAM_Team4_AI\bin\Debug\MinMaxAlgorithm.dll
+d:\EPAM\Naughts and Crosses\Repo_TicTacToe\EPAM_Team4_AI\EPAM_Team4_AI\bin\Debug\MinMaxAlgorithm.pdb
+d:\EPAM\Naughts and Crosses\Repo_TicTacToe\EPAM_Team4_AI\EPAM_Team4_AI\bin\Debug\CommonClasses.pdb
+d:\EPAM\Naughts and Crosses\Repo_TicTacToe\EPAM_Team4_AI\EPAM_Team4_AI\obj\Debug\EPAM_Team4_AI.csprojResolveAssemblyReference.cache
+d:\EPAM\Naughts and Crosses\Repo_TicTacToe\EPAM_Team4_AI\EPAM_Team4_AI\obj\Debug\EPAM_Team4_AI.csproj.CoreCompileInputs.cache
+d:\EPAM\Naughts and Crosses\Repo_TicTacToe\EPAM_Team4_AI\EPAM_Team4_AI\obj\Debug\EPAM_Team4_AI.dll
+d:\EPAM\Naughts and Crosses\Repo_TicTacToe\EPAM_Team4_AI\EPAM_Team4_AI\obj\Debug\EPAM_Team4_AI.pdb
+d:\EPAM\Repo_TicTacToe\EPAM_Team4_AI\EPAM_Team4_AI\bin\Debug\EPAM_Team4_AI.dll
+d:\EPAM\Repo_TicTacToe\EPAM_Team4_AI\EPAM_Team4_AI\bin\Debug\EPAM_Team4_AI.pdb
+d:\EPAM\Repo_TicTacToe\EPAM_Team4_AI\EPAM_Team4_AI\bin\Debug\CommonClasses.dll
+d:\EPAM\Repo_TicTacToe\EPAM_Team4_AI\EPAM_Team4_AI\bin\Debug\MinMaxAlgorithm.dll
+d:\EPAM\Repo_TicTacToe\EPAM_Team4_AI\EPAM_Team4_AI\bin\Debug\MinMaxAlgorithm.pdb
+d:\EPAM\Repo_TicTacToe\EPAM_Team4_AI\EPAM_Team4_AI\bin\Debug\CommonClasses.pdb
+d:\EPAM\Repo_TicTacToe\EPAM_Team4_AI\EPAM_Team4_AI\obj\Debug\EPAM_Team4_AI.csprojResolveAssemblyReference.cache
+d:\EPAM\Repo_TicTacToe\EPAM_Team4_AI\EPAM_Team4_AI\obj\Debug\EPAM_Team4_AI.csproj.CoreCompileInputs.cache
+d:\EPAM\Repo_TicTacToe\EPAM_Team4_AI\EPAM_Team4_AI\obj\Debug\EPAM_Team4_AI.dll
+d:\EPAM\Repo_TicTacToe\EPAM_Team4_AI\EPAM_Team4_AI\obj\Debug\EPAM_Team4_AI.pdb

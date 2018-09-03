@@ -1,0 +1,5 @@
+D:\EPAM\Naughts and Crosses\Team4_TicTacToe\EPAM_Team4_AI\CommonClasses\bin\Debug\CommonClasses.dll
+D:\EPAM\Naughts and Crosses\Team4_TicTacToe\EPAM_Team4_AI\CommonClasses\bin\Debug\CommonClasses.pdb
+D:\EPAM\Naughts and Crosses\Team4_TicTacToe\EPAM_Team4_AI\CommonClasses\obj\Debug\CommonClasses.dll
+D:\EPAM\Naughts and Crosses\Team4_TicTacToe\EPAM_Team4_AI\CommonClasses\obj\Debug\CommonClasses.pdb
+d:\EPAM\Naughts and Crosses\Team4_TicTacToe\EPAM_Team4_AI\CommonClasses\obj\Debug\CommonClasses.csprojResolveAssemblyReference.cache
